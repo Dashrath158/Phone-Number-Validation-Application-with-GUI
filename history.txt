@@ -1,0 +1,69 @@
+Phone Number: 18004194962
+valid: True
+number: 18004194962
+local_format: 8004194962
+international_format: +18004194962
+country_prefix: +1
+country_code: US
+country_name: United States of America
+location: 
+carrier: 
+line_type: toll_free
+
+
+
+Phone Number: 100
+valid: False
+number: 100
+local_format: 
+international_format: 
+country_prefix: 
+country_code: 
+country_name: 
+location: 
+carrier: 
+line_type: None
+
+
+
+Phone Number: +91100
+valid: True
+number: 91100
+local_format: 100
+international_format: +91100
+country_prefix: +91
+country_code: IN
+country_name: India (Republic of)
+location: 
+carrier: 
+line_type: special_services
+
+
+
+Phone Number: +911098
+valid: True
+number: 911098
+local_format: 1098
+international_format: +911098
+country_prefix: +91
+country_code: IN
+country_name: India (Republic of)
+location: 
+carrier: 
+line_type: special_services
+
+
+
+
+
+Phone Number: +287382
+valid: False
+number: 287382
+local_format: 
+international_format: 
+country_prefix: 
+country_code: 
+country_name: 
+location: 
+carrier: 
+line_type: None
